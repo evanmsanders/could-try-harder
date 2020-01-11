@@ -1,0 +1,23 @@
+# ==============================================================================
+# Could Try Harder Specific
+# ==============================================================================
+
+# Ignore contents of the data folder
+data/*
+
+# Except the sample files.
+!data/sample.csv
+!data/sample.json
+
+# ==============================================================================
+# Python
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt

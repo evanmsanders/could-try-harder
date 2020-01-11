@@ -1,0 +1,143 @@
+{
+    "subject_name": "sample",
+    "intro_comment": "This is the intro comment. I appears at the top of each student's comment to introduce the subject. You can use placeholders in the intro comment if you would prefer to write everything in relation to the individual student not the class.",
+    "comment_bank": [
+        "This is a comment indicating that <name> completed <pa> project to a high level.",
+        "This is another comment indicating that <name> could have engaged more fully with <pa> project.",
+        "In this third comment, <name> did not challenge <rp> sufficiently to complete the project. <sp> needs to make a greater committment to <pa> learning next term.",
+        "Comments can be written sentence by sentence, allowing for greater control over your comment bank for each student.",
+        "You can also import comments from other saved classes if you have more than one group using the same comment bank."
+    ],
+    "students": [
+        {
+            "first_name": "Tomi",
+            "last_name": "Baltzell",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": "In this third comment, Tomi did not challenge herself sufficiently to complete the project. She needs to make a greater committment to her learning next term. Placeholders are automatically replaced with the student's name and pronouns. Comments can be edited manually if needed for an individual student."
+        },
+        {
+            "first_name": "Mose",
+            "last_name": "Lickteig",
+            "gender": "Male",
+            "pronouns": [
+                "he",
+                "him",
+                "his",
+                "his",
+                "himself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Reba",
+            "last_name": "Hinerman",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Melodie",
+            "last_name": "Obanion",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Nella",
+            "last_name": "Brashier",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Jim",
+            "last_name": "Culver",
+            "gender": "Male",
+            "pronouns": [
+                "he",
+                "him",
+                "his",
+                "his",
+                "himself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Rosetta",
+            "last_name": "Loveall",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Galen",
+            "last_name": "Wrede",
+            "gender": "Male",
+            "pronouns": [
+                "he",
+                "him",
+                "his",
+                "his",
+                "himself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Ward",
+            "last_name": "Wainright",
+            "gender": "Male",
+            "pronouns": [
+                "he",
+                "him",
+                "his",
+                "his",
+                "himself"
+            ],
+            "comment": ""
+        },
+        {
+            "first_name": "Estela",
+            "last_name": "Sick",
+            "gender": "Female",
+            "pronouns": [
+                "she",
+                "her",
+                "her",
+                "hers",
+                "herself"
+            ],
+            "comment": ""
+        }
+    ]
+}
