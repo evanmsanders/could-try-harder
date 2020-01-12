@@ -1,2 +1,5 @@
+nltk==3.4.5
 PySide2==5.14.0
+shiboken2==5.14.0
+six==1.13.0
 textblob==0.15.3

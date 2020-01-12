@@ -21,3 +21,6 @@ __pycache__/
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Venv stuff
+.venv/
