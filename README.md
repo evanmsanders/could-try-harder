@@ -18,10 +18,10 @@ instructions below for how to get set up.
 ## Screenshots
 
 ![Could Try Harder Home Screen](assets/could-try-harder-home-screen.jpg)
-![Could Try Harder Comment Bank Screen showing sample
-comments](assets/could-try-harder-comment-bank-screen.jpg)
-![Could Try Harder Reports Screen showing sample
-comments](assets/could-try-harder-reports-screen.jpg)
+
+![Could Try Harder Comment Bank Screen showing sample comments](assets/could-try-harder-comment-bank-screen.jpg)
+
+![Could Try Harder Reports Screen showing sample comments](assets/could-try-harder-reports-screen.jpg)
 
 ## Getting Started
 
@@ -41,10 +41,12 @@ Open a terminal (or command prompt on Windows), navigate to your newly
 downloaded folder.
 
 Install the required Python modules:
+
 `pip install -r requirements.txt`
 
 You will also need to download some data for the TextBlob module (which does
 some of the grammar magic):
+
 `python -m textblob.download_corpora`
 
 Then run the app by double-clicking on *app.py* or typing:
