@@ -1,4 +1,4 @@
-nltk==3.4.5
+nltk==3.9
 PySide2==5.14.0
 shiboken2==5.14.0
 six==1.13.0
